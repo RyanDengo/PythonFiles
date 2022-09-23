@@ -23,8 +23,7 @@ driver.find_element(by=By.CSS_SELECTOR, value="#nav > li:nth-child(5) > a").clic
 
 time.sleep(5)
 
-time.sleep(1)
-time.sleep(12)
+
 #driver.quit()
 
 
